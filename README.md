@@ -17,3 +17,6 @@ Cualquier persona con deseo de aprender es bienvenida, no obstante consideramos 
 ## Lugar y horario
 Instituto de investigaciones biomédicas / Inst ecología / C3 ...
 
+## Material extra  
+[Tutorial Interactivo](https://try.github.io/levels/1/challenges/1)
+
